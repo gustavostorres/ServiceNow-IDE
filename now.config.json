@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_snowsdkide",
+  "scopeId": "b7cd7f4f35d413107f44c6eaf6d4a679",
+  "name": "snow-sdk-ide",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
